@@ -3,7 +3,7 @@
 if ( $_POST ) {
   $frm_name  = 'John Doe'; // your name
   $recepient = 'me@example.com'; // your e-mail
-  $sitename  = 'Asli HTML5 Template'; // your site name
+  $sitename  = 'Chazing Purple'; // your site name
   $subject   = "New contact from \"$sitename\""; // subject template
 
   $name  = trim( $_POST['visitor_name'] );
